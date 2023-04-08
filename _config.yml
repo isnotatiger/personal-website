@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
@@ -43,7 +43,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  # website: https://isnotatiger.github.io/personal-website/
   # youtube: your_username
 
 topics:
@@ -52,7 +52,3 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
