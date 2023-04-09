@@ -52,6 +52,8 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
+    web_url: https://html.spec.whatwg.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg
   
   - name: Java
     web_url: https://github.com/topics/java
